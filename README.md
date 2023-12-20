@@ -1,5 +1,6 @@
 # TectoVision
 # Project Title
+![Hero Image](path/to/hero-jd-sm-v2.jpg)
 
 A brief description of your project goes here.
 
